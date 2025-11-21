@@ -17,12 +17,12 @@ Dự án **Task Manager** được cấu trúc thành ba thành phần chính:
 
 ## 1️⃣ Yêu Cầu Hệ Thống
 
-Đảm bảo bạn đã cài đặt các công cụ sau trước khi bắt đầu:
+Đảm bảo cài đặt các công cụ sau trước khi bắt đầu:
 
 * **Node.js** $\ge 18$
 * **.NET 8 SDK**
 * **SQL Server Express / Developer**
-* **Vite 5** (Sẽ được cài đặt tự động thông qua `npm`)
+* **Vite 5**
 
 ---
 
