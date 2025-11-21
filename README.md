@@ -26,11 +26,11 @@ Dự án **Task Manager** được cấu trúc thành ba thành phần chính:
 
 ---
 
-## 2️⃣ Cấu Hình Database (SQL Server)
+## 2️⃣ Cấu Hình Database (MySql)
 
 ### ✔ Tạo Database
 
-Mở **SQL Server Management Studio (SSMS)** và chạy lệnh SQL sau để tạo database:
+Mở **MySql** và chạy lệnh SQL sau để tạo database:
 
 ```sql
 CREATE DATABASE TaskDb;
