@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# --- React / Frontend specific ---
+node_modules/
+build/
+dist/
+.env
+.env.local
+.DS_Store
